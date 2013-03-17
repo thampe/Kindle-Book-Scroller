@@ -1,0 +1,7 @@
+{
+	"name": "Kindle Book Scroller",
+	"description": "turn pages in the kindle app",
+	"bundle_id": "thampe.kindle.scroller",
+	"author": "Thomas Hampe",
+	"website": "http://github.com/thampe"
+}
